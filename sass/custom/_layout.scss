@@ -29,3 +29,39 @@ clear: both;
 float: left;
 }
 
+
+
+
+
+//Generated at http://css-tricks.com/examples/ButtonMaker/#
+.signupbutton {
+   border-top: 1px solid #5c0000;
+   background: #fa0000;
+   background: -webkit-gradient(linear, left top, left bottom, from(#992b2b), to(#fa0000));
+   background: -webkit-linear-gradient(top, #992b2b, #fa0000);
+   background: -moz-linear-gradient(top, #992b2b, #fa0000);
+   background: -ms-linear-gradient(top, #992b2b, #fa0000);
+   background: -o-linear-gradient(top, #992b2b, #fa0000);
+   padding: 8.5px 17px;
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 21px;
+   font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.signupbutton:hover {
+   border-top-color: #a30000;
+   background: #a30000;
+   color: #ccc;
+   }
+.signupbutton:active {
+   border-top-color: #d40000;
+   background: #d40000;
+   }
