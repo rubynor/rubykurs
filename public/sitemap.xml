@@ -2,22 +2,26 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://rubykurs.no/blog/archives/</loc>
-        <lastmod>2011-12-14T22:38:36+01:00</lastmod>
+        <lastmod>2011-12-15T10:17:37+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rubykurs.no/blog/</loc>
+        <lastmod>2011-12-15T11:00:27+01:00</lastmod>
     </url>
     <url>
         <loc>http://rubykurs.no/contact-us/</loc>
-        <lastmod>2011-12-14T23:31:40+01:00</lastmod>
+        <lastmod>2011-12-15T11:17:31+01:00</lastmod>
     </url>
     <url>
         <loc>http://rubykurs.no/courses/</loc>
-        <lastmod>2011-12-14T23:32:28+01:00</lastmod>
+        <lastmod>2011-12-15T10:17:37+01:00</lastmod>
     </url>
     <url>
         <loc>http://rubykurs.no/</loc>
-        <lastmod>2011-12-14T22:40:31+01:00</lastmod>
+        <lastmod>2011-12-15T11:08:54+01:00</lastmod>
     </url>
     <url>
         <loc>http://rubykurs.no/instructors/</loc>
-        <lastmod>2011-12-14T23:32:57+01:00</lastmod>
+        <lastmod>2011-12-15T11:25:13+01:00</lastmod>
     </url>
 </urlset>

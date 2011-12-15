@@ -4,8 +4,8 @@
 
 url: http://rubykurs.no
 title: Rubykurs
-subtitle: subtitel
-author: Peter Kordel
+subtitle: Lær Ruby og Rails i Oslo!
+author: Peter Kordel, Ole Morten Amundsen, Thomas Kjeldahl Nilsson
 simple_search: http://google.com/search
 description:
 
@@ -96,4 +96,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: true
+facebook_like: false

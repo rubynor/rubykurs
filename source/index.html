@@ -1,29 +1,53 @@
 ---
-layout: default
+layout: page
+sharing: false
+footer: true
 ---
 
-<div class="blog-index">
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
-    </article>
-  {% endfor %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
-    {% endif %}
-    <a href="/blog/archives">Blog Arkiv</a>
-    {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
-    {% endif %}
-  </div>
-</div>
-<aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>
+<h1>Kom igang med Ruby og Rails!</h1>
+
+<p><em>Dato: Kommer</em></p>
+
+<p>Ruby er et produktivt og elegant språk som sammen med rammeverket
+Ruby on Rails lar deg bygge systemer og webapplikasjoner raskere,
+bedre og enklere. På dette kurset får du en knallstart i Ruby &
+Rails-utvikling!</p>
+
+<h2>Markedet har talt</h2>
+
+<p>I 2011 er Ruby og Rails et velprøvd og modent alternativ for
+system- og web-utvikling. Mange startups og smidige bedrifter som
+f.eks twitter, airbnb, square, heroku, engine yard mfl bruker Ruby og
+Rails som konkurransefortrinn. Dette er nå mainstream-teknologier, og
+markedet støvsuges for "rubyister".</p>
+
+<h2>Bli kjent med Ruby, Rails og økosystemet rundt</h2>
+
+<p>Du får på dette kurset en innføring i Ruby som utviklingsspråk,
+rammeverket Ruby on Rails, samt en veiledning i hvilke 3.parts
+biblioteker og verktøy som du trenger for å utvikle gode "full stack"
+webapplikasjoner: frontend, database, integrasjon og
+autentisering.</p>
+
+<h2>Fra 0 til 100 på 3 dager</h2>
+
+<p>Målet er å gi deg en "flying start". Kurset er en tretrinnsrakett
+der vi starter med Ruby-programmering som fundament, går videre til et
+overblikk over Rails-teknologien, og så bygger en reell webapp på
+siste dag. Vi starter altså rolig, men på slutten av kurset ender du
+opp med en egen webapp rullet ut i "skya" (gratis på heroku.com).  Du
+har da et svært godt fundament for videre Ruby og Rails-utvikling!</p>
+
+<h2>Detta blir moro</h2>
+
+<p>Vi gleder oss til å programmere sammen med deg! 
+Ta kontakt for en uforpliktende prat.</p>
+
+<p><em>TODO: Signup-button</em></p>
+
+<h2>Instruktørene</h2>
+
+<p>Kurset har tre instruktører for best mulig oppfølging. Alle
+kursholderne har tidligere holdt kurs og foredrag. Alle tre elsker
+Ruby men har også bakgrunn og fundament fra populære platformer som
+Java og .Net.</p>

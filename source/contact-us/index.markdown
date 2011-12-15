@@ -1,9 +1,14 @@
 ---
 layout: page
-title: "kontakt"
-date: 2011-12-14 23:24
-comments: true
-sharing: true
+title: "Ta kontakt!"
+comments: false
+sharing: false
 footer: true
 ---
-### in source/contact-us/index.markdown
+
+<p>
+
+Henvendelser kan sendes på mail til <a href="mailto:info@rubykurs.no?subject=Kurshenvendelse">info@rubykurs.no</a>.
+
+</p>
+
