@@ -4,8 +4,11 @@ body > header {
     display: inline-block;
     margin: 0;
     a, a:visited, a:hover {
-      color: $title_color;
+      color: black;
       text-decoration: none;
+      .rubyred {
+        color:red;
+      }
     }
   }
   h2 {
