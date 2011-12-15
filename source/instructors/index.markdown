@@ -6,6 +6,11 @@ sharing: false
 footer: true
 ---
 
+<p>Kurset har tre instruktører for best mulig oppfølging. Alle
+kursholderne har tidligere holdt kurs og foredrag. Alle tre jobber
+daglig med teknologien og elsker Ruby men har også bakgrunn og
+fundament fra andre platformer som Java Enterprise og .Net</p>
+
 
 <h2>Ole Morten Amundsen</h2>
 
