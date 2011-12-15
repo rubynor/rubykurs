@@ -14,16 +14,14 @@ fundament fra andre platformer som Java Enterprise og .Net</p>
 
 <h2>Ole Morten Amundsen</h2>
 
-<div class="instructor-profile">
-<img src="https://si0.twimg.com/profile_images/705176024/ole_morten_closeup_2_reasonably_small.JPG"/>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad
-minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.</p>
-</div>
+<div class="instructor-profile"> <img
+src="https://si0.twimg.com/profile_images/705176024/ole_morten_closeup_2_reasonably_small.JPG"/>
+<p>Ole Morten er en gründer med flere Ruby-baserte systemer i
+produksjon og er aktiv i det <a href="http://irb.no">norske
+rubymiljøet</a>. Ole Morten er tidligere Java, Spring og
+Hibernate-ekspert, men kom etterhvert til Rails - og ble for Ruby. Han
+synes det er gøy å både programmere samt å skape produkter og
+tjenester.</p> </div>
 
 
 
@@ -44,13 +42,13 @@ Terminally curious and loves books, music, cooking and new challenges.</p>
 
 <h2>Thomas Kjeldahl Nilsson</h2>
 
-<div class="instructor-profile">
-<img src="https://si0.twimg.com/profile_images/270933405/colorPortrait_reasonably_small.jpg"/>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad
-minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in
-reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.</p>
+<div class="instructor-profile"> <img
+src="https://si0.twimg.com/profile_images/270933405/colorPortrait_reasonably_small.jpg"/>
+<p> Thomas has programmed professionally for over a decade, on both
+the backend, frontend and mobile, both in enterprise and startup
+environments. Thomas has extensive experience in Java, but Ruby and
+JavaScript are his weapons of choice these days. Thomas works at <a
+href="http://gitorious.com/">Gitorious AS</a> which supports and
+develops <a href="http://gitorious.org/about">Gitorious</a> - the open
+source Git collaboration platform.</p>
 </div>
