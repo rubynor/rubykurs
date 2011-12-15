@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "Instruktører"
 comments: false
 sharing: false
 footer: true
 ---
+
+<h1>Instruktører</h1>
 
 <p>Kurset har tre instruktører for best mulig oppfølging. Alle
 kursholderne har tidligere holdt kurs og foredrag. Alle tre jobber

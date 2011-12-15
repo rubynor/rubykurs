@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "Ta kontakt!"
 comments: false
 sharing: false
 footer: true
 ---
+
+<h1>Ta kontakt!</h1>
 
 <p>
 
