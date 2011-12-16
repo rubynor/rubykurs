@@ -25,18 +25,16 @@ Rails - og ble for Ruby. Han synes det er gøy å både programmere samt
 å skape produkter og tjenester.</p> </div>
 
 
-
-
 <h2>Peter Kordel</h2>
 
 <div class="instructor-profile"> <img
 src="https://si0.twimg.com/profile_images/15153102/peter1_reasonably_small.jpg"/>
-<p><a href="https://twitter.com/pkordel">Peter</a> has been a software
-developer since 1996 and has worked with a wide variety of languages
-and frameworks. He's lived and worked in Sweden, USA, France, Germany
-and now lives in Oslo. Active in the Ruby community, he has worked
-with Ruby and Rails full-time since 2005.  Terminally curious and
-loves books, music, cooking and new challenges.</p> </div>
+<p><a href="https://twitter.com/pkordel">Peter</a> har vært
+software-utvikler siden 1996 og har arbeidet med mange ulike språk og
+rammeverk. Han har bodd og arbeidet i Sverige, USA, Frankrike,
+Tyskland og bor nå i Oslo. Han er aktiv i rubymiljøet og har arbeidet
+med Ruby og Rails på fulltid siden 2005. Peter har stor lærelyst og
+elsker bøker, musikk, matlaging og nye utfordringer.</p> </div>
 
 
 
