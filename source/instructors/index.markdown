@@ -40,16 +40,16 @@ loves books, music, cooking and new challenges.</p> </div>
 
 
 
-
 <h2>Thomas Kjeldahl Nilsson</h2>
 
 <div class="instructor-profile"> <img
 src="https://si0.twimg.com/profile_images/270933405/colorPortrait_reasonably_small.jpg"/>
-<p><a href="https://twitter.com/thomanil">Thomas</a> has programmed
-professionally for over a decade, on both the backend, frontend and
-mobile, both in enterprise and startup environments. Thomas has
-extensive experience in Java, but Ruby and JavaScript are his weapons
-of choice these days. Thomas works at <a
-href="http://gitorious.com/">Gitorious AS</a> which supports and
-develops <a href="http://gitorious.org/about">Gitorious</a> - the open
-source Git collaboration platform.</p> </div>
+<p><a href="https://twitter.com/thomanil">Thomas</a>Thomas har
+arbeidet som utvikler i over et tiår, både i backend, frontend og
+mobil, både i enterprise og startup-virksomhet. Ruby og JavaScript er
+hans foretrukne verktøy, men han har også lang erfaring med Java.
+Thomas arbeider hos <a href="http://gitorious.com/">Gitorious AS</a>
+som utvikler og supporterer <a
+href="http://gitorious.org/about">Gitorious</a> - den åpne platformen
+for Git-samhandling.</p> </div>
+
