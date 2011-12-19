@@ -16,7 +16,7 @@ fundament fra andre platformer som Java Enterprise og .Net</p>
 <h2>Ole Morten Amundsen</h2>
 
 <div class="instructor-profile"> <img
-src="https://si0.twimg.com/profile_images/705176024/ole_morten_closeup_2_reasonably_small.JPG"/>
+src="http://a0.twimg.com/profile_images/1702520438/oma_reasonably_small.jpg"/>
 <p><a href="https://twitter.com/ole_morten">Ole Morten</a> er
 en gründer med flere Ruby-baserte systemer i produksjon. Han er også
 aktiv i det <a href="http://irb.no">norske rubymiljøet</a>. Ole Morten
