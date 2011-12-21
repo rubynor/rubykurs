@@ -28,7 +28,7 @@ Rails - og ble for Ruby. Han synes det er gøy å både programmere samt
 <h2>Peter Kordel</h2>
 
 <div class="instructor-profile"> <img
-src="https://si0.twimg.com/profile_images/15153102/peter1_reasonably_small.jpg"/>
+src="https://twimg0-a.akamaihd.net/profile_images/1706084320/peter_reasonably_small.jpg"/>
 <p><a href="https://twitter.com/pkordel">Peter</a> har vært
 software-utvikler siden 1996 og har arbeidet med mange ulike språk og
 rammeverk. Han har bodd og arbeidet i Sverige, USA, Frankrike,
