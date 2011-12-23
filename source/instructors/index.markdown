@@ -46,8 +46,8 @@ src="https://si0.twimg.com/profile_images/270933405/colorPortrait_reasonably_sma
 utvikler i over et tiår, både i backend, frontend og mobil, innenfor
 enterprise og startup-virksomhet. Ruby og JavaScript er hans
 foretrukne verktøy, men han har også lang erfaring med Java. Thomas
-arbeider hos <a href="http://gitorious.com/">Gitorious AS</a> som
-utvikler og supporterer <a
+arbeider hos <a href="http://gitorious.com/">Gitorious
+AS</a>, som utvikler og supporterer <a
 href="http://gitorious.org/about">Gitorious</a> - den åpne platformen
 for Git-samhandling.</p> </div>
 
