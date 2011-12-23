@@ -95,7 +95,3 @@ vi skal gjøre vårt ytterste for å gi deg en flying start!</p>
  <a href="mailto:info@rubykurs.no?subject=Kurs-henvendelse&body=Ja
  takk, jeg ønsker mer informasjon om kurset! %0A%0A" class="signupbutton">Påmelding</a>
 </p>
-
-<p><small>Jepp: vi har valgt å legge oss på en lavere pris enn mange andre
-utviklerkurs... selv om vi har 3 instruktører aktive i salen gjennom hele
-kurset. Fint, ikke sant?</small></p>
