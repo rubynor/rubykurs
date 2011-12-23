@@ -6,7 +6,7 @@ sharing: false
 
 <h1>Slik gjør vi det</h1>
 
-<p>I løpet av tre morsomme dager på Majorstua skal du få et bra
+<p>I løpet av tre morsomme dager på Majorstua <em>(30 jan - 1. feb)</em> skal du få et bra
 fundament for videre programmering i Ruby samt effektiv webutvikling med
 Ruby on Rails. Her er opplegget vårt.</p>
 
