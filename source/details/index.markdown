@@ -24,11 +24,12 @@ over gata for politikammeret i Sørkedalsveien.</p>
 
 <h2>Standard, felles utviklingsmiljø - no setup!</h2>
 
-<p>Vi synes ikke du skal betale for å knote med installasjon av verktøy
-på kurset. Derfor gir vi deg et ferdig oppsatt utviklingsmiljø. Du tar
-med egen maskin - vi gir deg en minnepinne med en VirtualBox VM som
-inneholder Linux, Ruby og Rails-miljø ferdig satt opp, og et bredt
-utvalg av teksteditorer å velge mellom.</p>
+<p>Vi synes ikke du skal betale for å knote med installasjon av
+verktøy på kurset. Derfor gir vi deg et ferdig oppsatt
+utviklingsmiljø. Du tar med egen maskin. Alt du trenger å installere
+er VirtualBox. På dag 1 får du en minnepinne med en Virtual Machine
+som inneholder Linux med Ruby og Rails-miljø ferdig satt opp for deg
+(inkluderer et bredt utvalg av teksteditorer og IDE).</p>
 
 <h2>Hva bør du kunne fra før?</h2>
 
@@ -51,36 +52,41 @@ mer. </p>
 <h3>Dag 2: En Rails-safari</h3>
 
 <p>Peter gir dere en guidet tur i de grunnleggende komponentene som
-Rails består av: ERB-templates, routing, controller-programmering,
-persistering av data med Active Record med mer. Dere får også høre om
+Rails består av: routing, controllers, templating,
+database-integrasjon og persistering, med mer. Dere får også høre om
 testing, performance og ymse best practices.</p>
 
-<h3>Dag 3: Vi bygger!</h3>
+<h3>Dag 3: "Today, we build!"</h3>
 
 <p>Ole Morten setter dere igang med en større praktisk oppgave på siste
 dag. Du velger selv en av to stier:</p>
 
-<h4>1: "Standardprosjektet" - bygg en app på en dag</h4>
+<h4>1: Standardprosjektet - bygg en app på en dag</h4>
 
-<p>Dersom du helst vil drille stoffet fra dag 1 og 2, så kan du velge å
-implementere en predefinert standardapplikasjon: du får
-spesifikasjoner, templater og "byggeklosser" underveis. Oppgaven er
-lagd for å være gjennomførbar på en dag, og gjør at du får trent
-strukturert på det du har lært.</p>
+<p>Implementere en predefinert standardapplikasjon. du får
+spesifikasjoner, templater og andre "byggeklosser" av Ole Morten
+underveis. Oppgaven er lagd for å være gjennomførbar på en dag, og
+gjør at du får trent stoffet fra dag 1 og 2 på en strukturert
+måte.</p>
 
-<h4>2: Bygge sjæl! Få starthjelp på en egen ide</h4>
-<p>Elsker du å bygge egne små nettsteder og webapplikasjoner?  Da
-kanskje du vil bruke dag 3 til å bygge noe helt eget. Vi hjelper deg
-med å lage en liten app du klekker ut selv, eller begynnelsen på et
-større prosjekt. Velg denne hvis du vil komme igang med et ekte
-prosjekt - med aktiv, konstant starthjelp fra oss hele dagen!</p>
+<h4>2: Bygge sjæl! Få starthjelp på din egen ide</h4>
+<p>Elsker du å bygge egne små nettsteder og webapplikasjoner? Da kanskje du vil
+bruke dag 3 til å begynne å bygge noe helt eget! Vi hjelper deg igang, bidrar
+med design og arkitektur-hjelp og foreslår gode verktøy og 3.parts
+libraries som passer behovet ditt. Velg denne hvis du vil komme igang
+med et ekte prosjekt - med aktiv, konstant starthjelp fra oss hele
+dagen!</p>
 
 
 <h2>Og hva koster gildet?</h2>
 
 <p>Kurset koster 14500,- per deltaker.</p>
 
-(signup-button)
+<p>
+  <center>
+ <a href="mailto:info@rubykurs.no?subject=Kurs-henvendelse&body=Ja
+ takk, jeg ønsker mer informasjon om kurset! %0A%0A" class="signupbutton">Påmelding</a></center>
+</p>
 
 <p>Jepp: vi har valgt å legge oss på en lavere pris enn mange andre
 utviklerkurs... selv om vi har 3 instruktører aktive i salen gjennom hele
