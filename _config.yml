@@ -6,7 +6,7 @@ url: http://rubykurs.no
 title: Rubykurs
 subtitle: Lær Ruby og Rails i Oslo!
 author: Peter Kordel, Ole Morten Amundsen, Thomas Kjeldahl Nilsson
-simple_search: http://google.com/search
+#simple_search: http://google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
