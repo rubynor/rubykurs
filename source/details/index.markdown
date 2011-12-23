@@ -43,6 +43,9 @@ teksteditorer og IDEs). Minnepinnen beholder du når kurset er over.</p>
 
 <h2>Selve kursdagene</h2>
 
+<p>Vi jobber fra 0800 til 1700 alle tre dagene. Det blir mange små pauser
+underveis for å lufte hodet og trekke frisk luft.</p>
+
 <h3>Dag 1: Krype, gå og danse med Ruby</h3>
 
 <p><a href="/instructors">Thomas</a> setter dere igang med Ruby som
@@ -73,7 +76,9 @@ Rails-webapp fra A til Å. Oppgaven er lagd for å være gjennomførbar på
 en dag, og gjør at du får trent stoffet fra dag 1 og 2 på en
 strukturert måte.</p>
 
-<h4>2: Bygge sjæl! Få starthjelp på ditt eget prosjekt</h4> <p>Elsker
+<h4>2: Bygge sjæl! Få starthjelp på ditt eget prosjekt</h4>
+
+<p>Elsker
 du å bygge egne nettsteder og webapplikasjoner? Hva med å bruke dag 3
 til å starte ditt eget prosjekt i Ruby og/eller Rails? Vi hjelper deg
 igang, bidrar med software-design og best practices, og gir deg gode
