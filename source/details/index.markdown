@@ -9,7 +9,7 @@ sharing: false
 <p>I løpet av tre morsomme dager på Majorstua skal du få et bra fundament
 i Ruby-programmering og Rails-webutvikling. Her er opplegget vårt.</p>
 
-<h2>12 deltakere - 3 instruktører</h2>
+<h2>12 deltakere &mdash; 3 instruktører</h2>
 
 <p>Du har tilgang til alle tre instruktørene, hele dagen, alle tre
 dagene. Siden det bare er fire elever per instruktør får du svært god
@@ -22,7 +22,7 @@ utkantstrøk. Kurset kjøres i hyggelige lokaler hos Graphisoft i
 Fritjof Nansens gt 17 på sentrale Majorstua. Du finner bygget tvers
 over gata for politikammeret i Sørkedalsveien.</p>
 
-<h2>Standard, felles utviklingsmiljø - no setup!</h2>
+<h2>Standard, felles utviklingsmiljø &mdash; no setup!</h2>
 
 <p>Vi synes ikke du skal betale for å knote med installasjon av
 verktøy på kurset. Derfor gir vi deg et ferdig oppsatt
@@ -61,7 +61,7 @@ testing, performance og ymse best practices.</p>
 <p>Ole Morten setter dere igang med en større praktisk oppgave på siste
 dag. Du velger selv en av to stier:</p>
 
-<h4>1: Standardprosjektet - bygg en app på en dag</h4>
+<h4>1: Standardprosjektet &mdash; bygg en app på en dag</h4>
 
 <p>Implementere en predefinert standardapplikasjon. du får
 spesifikasjoner, templater og andre "byggeklosser" av Ole Morten
@@ -74,7 +74,7 @@ måte.</p>
 bruke dag 3 til å begynne å bygge noe helt eget! Vi hjelper deg igang, bidrar
 med design og arkitektur-hjelp og foreslår gode verktøy og 3.parts
 libraries som passer behovet ditt. Velg denne hvis du vil komme igang
-med et ekte prosjekt - med aktiv, konstant starthjelp fra oss hele
+med et ekte prosjekt &mdash; med aktiv, konstant starthjelp fra oss hele
 dagen!</p>
 
 
