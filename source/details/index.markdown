@@ -18,7 +18,7 @@ oppfølging underveis.</p>
 <h2>Sentrale kurslokaler</h2>
 
 <p>Her trenger du ikke stresse helt ut til Fornebu eller andre
-utkantstrøk. Kurset kjøres i hyggelige lokaler hos Graphisoft i
+utkantstrøk. Kurset kjøres i hyggelige lokaler hos <a href="http://graphisoft.no/">Graphisoft</a> i
 Fritjof Nansens gt 17 på sentrale Majorstua. Du finner bygget tvers
 over gata for politikammeret i Sørkedalsveien.</p>
 
@@ -27,27 +27,27 @@ over gata for politikammeret i Sørkedalsveien.</p>
 <p>Vi synes ikke du skal betale for å knote med installasjon av
 verktøy på kurset. Derfor gir vi deg et ferdig oppsatt
 utviklingsmiljø. Du tar med egen maskin. Alt du trenger å installere
-er VirtualBox. På dag 1 får du en minnepinne med en Virtual Machine
+er <a href="https://www.virtualbox.org/">VirtualBox</a>. På dag 1 får du en minnepinne med en Virtual Machine
 som inneholder Linux med Ruby og Rails-miljø ferdig satt opp for deg
 (inkluderer et bredt utvalg av teksteditorer og IDE).</p>
 
 <h2>Hva bør du kunne fra før?</h2>
 
-<p>For å få utbytte av kurset bør du ha programmert i minst et
-programmeringsspråk fra før. Det er en fordel men ikke et krav å
-beherske litt grunnleggende webteknologi som HTML, CSS og
+<p>For å få utbytte av kurset bør du beherske minst et
+programmeringsspråk fra før. Det er en fordel (men ikke et krav) å
+beherske noe grunnleggende webteknologi som HTML, CSS og
 JavaScript.</p>
 
 
-<h2>Kursdagene</h2>
+<h2>Selve kursdagene</h2>
 
 <h3>Dag 1: Krype, gå og danse med Ruby</h3>
 
 <p>Thomas setter dere igang med Ruby som
 programmeringsspråk. Grunnleggende syntax, programmering av små
-scripts, Rubys objektsystem, vanlige ideomer i språket, klasser
-objekter og moduler, hvordan bruke 3.parts biblioteker ('gems'), med
-mer. </p>
+utility-scripts, Rubys objektsystem med klasser objekter og moduler,
+vanlige ideomer i språket, hvordan bruke 3.parts biblioteker ('gems'),
+med mer. </p>
 
 <h3>Dag 2: En Rails-safari</h3>
 
