@@ -44,7 +44,8 @@ teksteditorer og IDEs). Minnepinnen beholder du når kurset er over.</p>
 <h2>Selve kursdagene</h2>
 
 <p>Vi jobber fra 0800 til 1700 alle tre dagene. Det blir mange små pauser
-underveis for å lufte hodet og trekke frisk luft.</p>
+underveis for å lufte hodet og trekke frisk luft. Felles lunsj er inkludert i
+prisen.</p>
 
 <h3>Dag 1: Krype, gå og danse med Ruby</h3>
 
