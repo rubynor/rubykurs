@@ -96,3 +96,29 @@ vi skal gjøre vårt ytterste for å gi deg en flying start!</p>
  <a href="mailto:info@rubykurs.no?subject=Kurs-henvendelse&body=Ja
  takk, jeg ønsker mer informasjon om kurset! %0A%0A" class="signupbutton">Påmelding</a>
 </p>
+
+
+<h2>Vilkår</h2>
+
+<h3>Avbestilling</h3>
+
+<p>Påmeldingen er bindende.  Frem til en uke før kursstart kan du
+avbestille kursplassen med 50% refusjon. Ved senere avbestilling
+debiterer vi hele kursavgiften.</p>
+
+<h3>Betalingsbetingelser</h3>
+
+<p>Faktura vil bli sendt ut rett etter påmelding. Det er 14 dagers
+betalingsfrist.</p>
+
+<h3>Rettigheter</h3>
+
+<p>Rubykurs.no eier rettighetene til kursmateriellet. Det er ikke lov
+å videreselge eller kopiere materialet uten skriftlig tillatelse fra
+Rubykurs.no</p>
+
+<h3>Endringer og kanselleringer</h3>
+
+<p>Rubykurs.no forbeholder seg retten til å kunne endre eller
+kansellere kurset frem til kursstart ved sykdom eller andre
+uforutsette problemer. Kursavgiften blir da refusert i sin helhet.</p>
