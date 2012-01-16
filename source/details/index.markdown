@@ -5,10 +5,10 @@ sharing: false
 ---
 
 <h1>Slik gjør vi det</h1>
-
-<p>I løpet av tre morsomme dager på Majorstua <em>(30 jan - 1. feb)</em> skal du få et bra
+<p><em> 30. jan - 1. feb 2012, Oslo. Pris 14500,- (Kurs er momsfritt) </em></p>
+<p>I løpet av tre morsomme dager på Majorstua skal du få et bra
 fundament for videre programmering i Ruby samt effektiv webutvikling med
-Ruby on Rails. Her er opplegget vårt.</p>
+Ruby on Rails. Les videre:</p>
 
 <h2>12 deltakere &mdash; 3 instruktører</h2>
 
