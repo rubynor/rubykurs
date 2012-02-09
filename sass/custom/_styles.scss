@@ -9,3 +9,10 @@ html {
 .availability-count {
 color: red;
 }
+
+.tweetimonials {
+  @extend .sans;
+  font-size: .8em;
+  line-height: 1.4em;
+  margin-bottom: 1.5em;
+}
