@@ -5,8 +5,8 @@ sharing: false
 ---
 
 <h1>Slik gjør vi det</h1>
-<p><em> 3 dager i månedsskiftet april/mai, Oslo. Pris 14500,- (Kurs er momsfritt) </em></p>
-<p>I løpet av tre morsomme dager på Majorstua skal du få et bra
+
+<p>I løpet av tre morsomme dager (21-23 mai) på Majorstua skal du få et bra
 fundament for videre programmering i Ruby samt effektiv webutvikling med
 Ruby on Rails. Les videre:</p>
 
@@ -43,7 +43,7 @@ teksteditorer og IDEs). Minnepinnen beholder du når kurset er over.</p>
 
 <h2>Selve kursdagene</h2>
 
-<p>Vi jobber fra 0800 til 1700 alle tre dagene. Det blir mange små pauser
+<p>Vi jobber fra 0800 til 1600 alle tre dagene. Det blir mange små pauser
 underveis for å lufte hodet og trekke frisk luft. Felles lunsj er inkludert i
 prisen.</p>
 
@@ -90,7 +90,7 @@ vi skal gjøre vårt ytterste for å gi deg en flying start!</p>
 
 <h2>Og hva koster gildet?</h2>
 
-<p>Kurset koster 14500,- per deltaker.</p>
+<p>Kurset koster 14500,- per deltaker (og kurset er momsfritt).</p>
 
 <p>
  <a href="mailto:info@rubykurs.no?subject=Kurs-henvendelse&body=Ja

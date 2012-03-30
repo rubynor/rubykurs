@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://rubykurs.no/blog/archives/</loc>
-        <lastmod>2011-12-19T12:54:25+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://rubykurs.no/blog/</loc>
-        <lastmod>2011-12-19T12:54:25+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://rubykurs.no/contact-us/</loc>
-        <lastmod>2011-12-19T12:54:25+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://rubykurs.no/courses/</loc>
-        <lastmod>2011-12-19T12:54:25+01:00</lastmod>
-    </url>
-    <url>
         <loc>http://rubykurs.no/details/</loc>
-        <lastmod>2012-02-09T10:38:50+01:00</lastmod>
+        <lastmod>2012-03-30T10:23:18+02:00</lastmod>
     </url>
     <url>
         <loc>http://rubykurs.no/</loc>
-        <lastmod>2012-02-09T10:35:38+01:00</lastmod>
+        <lastmod>2012-03-30T10:18:36+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rubykurs.no/courses/</loc>
+        <lastmod>2011-12-15T10:17:37+01:00</lastmod>
     </url>
     <url>
         <loc>http://rubykurs.no/instructors/</loc>
-        <lastmod>2012-01-16T10:32:12+01:00</lastmod>
+        <lastmod>2012-02-16T20:50:01+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rubykurs.no/contact-us/</loc>
+        <lastmod>2011-12-15T19:26:39+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rubykurs.no/blog/archives/</loc>
+        <lastmod>2011-12-15T10:17:37+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rubykurs.no/blog/</loc>
+        <lastmod>2011-12-15T11:00:27+01:00</lastmod>
     </url>
 </urlset>
