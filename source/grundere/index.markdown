@@ -27,6 +27,9 @@ footer: true
 </p>
 </center>
 
+
+[Foreløpig kursplan](/grundere/kursplan)
+
 <p>Erling vil dra inn en rekke fasilitatorer som har spesialkunnskaper
 på forskjellige områder. Du vil derfor få en variert og grundig
 innføring i Ruby, Ruby on Rails og programmering/utvikling generelt.
