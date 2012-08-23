@@ -21,7 +21,7 @@ footer: true
 	kurset. Du vil få masse hands-on erfaring og oppfølging fra noen
 	av de beste Ruby-utviklerne i landet.</p>
 
-<p>Kurset er fullt, men meld deg gjerne på ventelisten under<p>
+<p>Kurset er fullt, men meld deg gjerne på ventelisten under</p>
 
 <center> <!-- Old school prez in markup! Fix later, works for now :) -->
 <p>
