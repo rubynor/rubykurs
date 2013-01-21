@@ -10,7 +10,7 @@ footer: true
 	gründermiljøet. Vi ønsker å bidra til at enda flere lærer seg
 	Ruby. Derfor arrangerer <a
 	href="https://twitter.com/erlingwl">Erling Wegger Linde</a> gratis
-	kurs for deg som enten er gründer - og som har lyst til å lære deg å
+	kurs for deg som er gründer og har lyst til å lære deg å
 	programmere i Ruby. </p>
 	
 <p> Kurset vil gå på kveldstid, en
