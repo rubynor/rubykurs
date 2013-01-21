@@ -37,14 +37,6 @@ på forskjellige områder. Du vil derfor få en variert og grundig
 innføring i Ruby, Ruby on Rails og programmering/utvikling generelt.
 </p>
 
-<p> Er du ikke gründer, men har lyst til å delta allikevel? Vi kan
-	sette deg i kontakt med startups eller ideelle organisasjoner hvor
-	du kan betale for kurset i form av at du bidrar med noe du er
-	flink til. Har du ikke mulighet til dette, men fortsatt ønsker å
-	delta på kurset - ta kontakt for prisinformasjon. Dersom du
-	allerede kan Ruby og kan tenke deg å være med å fasilitere, så ta
-	kontakt, vi vil gjerne ha deg med!</p>
-
 <div class="tweetimonials"> <p> <quote> “Had three exciting days at <a
   href="http://twitter.com/rubykurs">@rubykurs</a>. Great for getting
   a flying start with Ruby and Rails; I can definitely recommend it!”
@@ -59,7 +51,7 @@ Rails-utvikling!</p>
 
 <h2>Markedet har talt</h2>
 
-<p>I 2011 er Ruby og Rails et <strong>velprøvd og modent</strong> alternativ for
+<p>I 2013 er Ruby og Rails et <strong>velprøvd og modent</strong> alternativ for
 system- og web-utvikling. Både startups og smidige bedrifter som for
 eksempel <a href="https://twitter.com/">Twitter</a>, <a href="http://www.linkedin.com/">Linkedin</a>
 og <a href="http://www.airbnb.com/">Airbnb</a> bruker Ruby og Rails
