@@ -90,7 +90,7 @@ vi skal gjøre vårt ytterste for å gi deg en flying start!</p>
 
 <h2>Og hva koster gildet?</h2>
 
-<p>Kurset koster 14500,- per deltaker (og kurset er momsfritt).</p>
+<p>Kurset koster 15900,- per deltaker (og kurset er momsfritt).</p>
 
 <p>
  <a href="mailto:info@rubykurs.no?subject=Kurs-henvendelse&body=Ja
